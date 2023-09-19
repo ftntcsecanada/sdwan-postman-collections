@@ -6,11 +6,7 @@ This repository contains automation scripts and Postman collections to automate 
 
 Latest versions:
 
-- `Managed_SDWAN_7_2_x.postman.json` - Postman collection tailored to "Managed Secure SD-WAN Workshop 7.2.x", created by Fortinet Telco/MSSP EMEA CSE Team
-
-- `Managed_SDWAN_7_0_x.postman.json` - Postman collection tailored to "Managed Secure SD-WAN Workshop 7.0.x", created by Fortinet Telco/MSSP EMEA CSE Team
-
-- `Deployment_Guide_SDWAN_7_2.postman.json` - Postman collection tailored to "Deloying Secure SD-WAN for MSSPs, Release 7.2" Deployment Guide
+- `Secure SD-WAN 7.4.x.postman_collection` - Postman collection tailored to "Deploying Secure SDWAN, release 7.4" deployment Guide
 
 ## Usage
 
