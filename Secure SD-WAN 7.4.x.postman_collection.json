@@ -82,7 +82,7 @@
 								],
 								"body": {
 									"mode": "raw",
-									"raw": "{   \n    \"session\": \"{{session}}\",\n    \"id\": 1,\n    \"method\": \"update\",\n    \"params\": [\n        {\n            \"url\": \"pm/config/adom/root/obj/fmg/variable/vm_interface_number\",\n            \"data\": {\n                \"description\": \"predefined variable for set fgtvm interface number\",\n                \"name\": \"vm_interface_number\",\n                \"value\": \"10\",\n                \"dynamic_mapping\": []\n            },\n            \"revision note\": \"Update\"\n        }\n    ]\n}",
+									"raw": "{   \n    \"session\": \"{{session}}\",\n    \"id\": 1,\n    \"method\": \"update\",\n    \"params\": [\n        {\n            \"url\": \"pm/config/adom/{{adom}}/obj/fmg/variable/vm_interface_number\",\n            \"data\": {\n                \"description\": \"predefined variable for set fgtvm interface number\",\n                \"name\": \"vm_interface_number\",\n                \"value\": \"10\",\n                \"dynamic_mapping\": []\n            },\n            \"revision note\": \"Update\"\n        }\n    ]\n}",
 									"options": {
 										"raw": {
 											"language": "json"
